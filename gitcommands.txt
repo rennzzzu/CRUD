@@ -11,7 +11,7 @@ git checkout {{branchname}} - Sample: git branch trybranch
 	Go to branch
 git merge {{branchname}} - Sample: git merge trybranch
 	Update the master
-git remote - Get all repositories
+git remote - Get all repositoriess
 
 
 
