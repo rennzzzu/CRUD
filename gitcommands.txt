@@ -1,0 +1,18 @@
+touch index.php - To create a file
+git init - To initialize git and use commands of git
+git config --global user.name 'Renz Blasquillo' - Add name on git
+git config --global user.email 'rennzzzublasquillo@gmail.com' - Add name on git
+git rm --cached index.html
+git commit -m 'First commit!' - Commit to staging
+git branch {{branchname}} - Sample: git branch trybranch 
+	Add branch
+	Work like as a backup
+git checkout {{branchname}} - Sample: git branch trybranch
+	Go to branch
+git merge {{branchname}} - Sample: git merge trybranch
+	Update the master
+git remote - Get all repositories
+
+
+
+
